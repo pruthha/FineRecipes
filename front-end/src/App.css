@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+.indie{
+  font-family: 'Indie Flower';
+  color: black;
+  font-size: 20px;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Cherry+Swash);
+.cherry{
+  font-family: 'Cherry Swash';
+  display:inline;
+  border: 1px solid blue;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.App {
+  text-align: center;
+}
+
+.forImg{
+   width: 100%;
+   border-radius: 15px;
+   height: 42vh;
+   object-fit: cover;
+}
+
+.box {
+  border:1px solid white;
+  margin-top: 20px;
+}
+
+.search-bar{
+  margin-top:40px;
+  margin-bottom: 30px;
+}
+
+h1{
+  font-family: Chalkduster, fantasy;
+  font-size: 3.5em;
+  position: relative;
+  color:black;
+}
+
